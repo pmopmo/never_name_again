@@ -1,28 +1,26 @@
-Alpaca
-Buffalo 	muscle, meat, milk
-Banteng 	meat, milk, muscle
-Cow 	meat, milk, leather, muscle, soil fertilization
-Cat 	eating mice, meat, companionship
-Chicken 	meat, eggs and feathers
-Common Carp 	meat
-Camel 	meat, dairy, transportation, leather
-Donkey 	transportation, muscle, meat
-Dog 	hunting, shepherding, herding, companionship, meat
-Duck 	eggs, meat
-Emu 	meat, feathers
-Goat 	milk, meat
-Gayal 	meat
-Guinea pig 	meat, companionship
-Goose 	feathers, meat, eggs
-Horse 	transport
-Honey Bee 	honey, wax, pollination
-Llama 	transportation, muscle, meat
-Pig 	meat, leather, companionship
-Pigeon 	meat
-Rhea 	meat, eggs, oil
-Rabbit 	meat, fur
-Sheep 	wool, meat, milk, leather, vellum
-Silkworm 	silk
-Turkey 	feathers, meat
-Yak 	milk, muscle, meat, wool
-Zebu 	meat, milk, leather, muscle, soil fertilization
+alpaca
+banteng
+bee
+buffalo
+camel
+cat
+chicken
+common
+cow
+dog
+donkey
+duck
+emu
+gayal
+goat
+goose
+horse
+llama
+pig
+pigeon
+rabbit
+rhea
+sheep
+turkey
+yak
+zebu

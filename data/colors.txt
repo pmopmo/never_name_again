@@ -23,3 +23,7 @@ vermilion
 violet
 white
 yellow
+transparent
+opaque
+translucent
+
